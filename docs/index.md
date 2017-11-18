@@ -1,37 +1,15 @@
-# PyTorch 튜토리얼
+## PyTorch 튜토리얼
 
-You can use the [editor on GitHub](https://github.com/granrookey/granrookey/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+PyTorch를 배우기 시작하려면, 우리의 초급자 튜토리얼로 시작하십시오.
+[60-minute blitz](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)는 가장 일반적인 시작점이고,
+시작점에서는 당신에게 파이토치에 대해 즉시적으로 소개해 줄 것입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+당신이 튜토리얼을 IPython / Jupyter를 통해서 대화식으로 진행하길 원한다면, 
+각 튜토리얼은 Jupyter Notebook과 Python 소스 코드에 대한 다운로드 링크를 가지고 있습니다.
 
-### Markdown
+우리는 이미지 분류, 비지도 학습, 강화학습, 번역기 그리고 다른 어플리케이션에 활용할 수 있는 수많은 높은 수준의 예제들을 [https://github.com/pytorch/examples/](https://github.com/pytorch/examples/)에서 또한 제공합니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+당신은 Pytorch's API와 레이어에 관한 참조 문서를 [http://docs.pytorch.org/](http://docs.pytorch.org/) 또는 즉시적인 도움에서 찾을 수 있습니다.
+당신이 튜토리얼 부분을 개선하고 싶다면, 당신의 피드백과 함께 깃허브 이슈를 등록해 주십시오.:[https://github.com/pytorch/tutorials](https://github.com/pytorch/tutorials)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/granrookey/granrookey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 초급자 튜토리얼
