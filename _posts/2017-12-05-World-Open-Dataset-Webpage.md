@@ -10,12 +10,12 @@ image:
   creditlink: http://www.kyobobook.co.kr/index.laf
 ---
 
-# Korean Government Dataset
+### Korean Government Dataset
 
 * https://www.data.go.kr
 
 
-# USA Government Dataset
+### USA Government Dataset
 
 * Data.gov http://data.gov
 * Education Data http://datainventory.ed.gov/InventoryList
@@ -24,7 +24,7 @@ image:
 * Labor Statistics http://bls.gov
 
 
-# Europe and UK
+### Europe and UK
 
 * Public Data EU http://publicdata.eu
 * Open Data Europe http://open-data.europa.eu
@@ -32,7 +32,7 @@ image:
 * UK Government Data https://data.gov.uk/
 
 
-# Africa
+### Africa
 
 * Africa Open Data https://africaopendata.org/
 * Code for South Africa http://code4sa.org/
@@ -40,7 +40,7 @@ image:
 * Open Data for Africa http://dataportal.opendataforafrica.org/
 
 
-# Asia
+### Asia
 
 * Open Cities Project http://www.opencitiesproject.org/
 * Open Nepal http://data.opennepal.net/
@@ -49,7 +49,7 @@ image:
 * Indonesian Government Open Data http://data.go.id/
 
 
-# Non-EU Europe, Central Asia, India, the Middle East, and Russia
+### Non-EU Europe, Central Asia, India, the Middle East, and Russia
 
 * Russian Government Data Website http://data.gov.ru/
 * PakReport—Pakistan Open Data and Maps http://pakreport.org/
@@ -57,7 +57,7 @@ image:
 * Turkey Open Statistics http://www.turkstat.gov.tr/
 
 
-# South America and Canada
+### South America and Canada
 
 * Canada Statistics https://crdcn.org/data
 * Open Canada http://open.canada.ca/en
@@ -67,7 +67,7 @@ image:
 * Developing in the Caribbean http://developingcaribbean.org/
 
 
-# Organization and Non-Government Organization (NGO) Data
+### Organization and Non-Government Organization (NGO) Data
 
 * United Nations Open Data http://data.un.org/
 * United Nations Development Program Data http://open.undp.org/#2017
@@ -79,7 +79,7 @@ image:
 * Population Reference Bureau http://www.prb.org/DataFinder.aspx
 
 
-# Education and University Data
+### Education and University Data
 
 * Lexis Nexis https://www.lexisnexis.com/en-us/gateway.page
 * Google Scholar search https://scholar.google.co.kr/
@@ -88,7 +88,7 @@ image:
 * Common Data Set Initiative http://www.commondataset.org/
 
 
-# Medical and Scientific Data
+### Medical and Scientific Data
 
 * Open Science Data Cloud https://www.opensciencedatacloud.org/publicdata/
 * Open Science Directory http://www.opensciencedirectory.net/
@@ -100,7 +100,7 @@ image:
 * CDC Medical Data https://www.cdc.gov/nchs/fastats/
 
 
-# Crowdsourced Data and APIs
+### Crowdsourced Data and APIs
 
 * Gallup Polls http://www.gallup.com/home.aspx
 * European Social Survey http://www.europeansocialsurvey.org/data/
