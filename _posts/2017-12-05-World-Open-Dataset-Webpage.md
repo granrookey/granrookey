@@ -9,9 +9,6 @@ image:
   credit: Kyobo Books
   creditlink: http://www.kyobobook.co.kr/index.laf
 ---
-  
-$$ f_i $$
-
 
 ### Korean Government Dataset
 
