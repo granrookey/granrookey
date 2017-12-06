@@ -65,3 +65,5 @@ owner:
   flickr: #username
   codepen: #username
   telegram: #username
+
+mathjax: true # whether support mathjax
