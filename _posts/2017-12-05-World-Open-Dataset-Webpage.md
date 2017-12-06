@@ -9,7 +9,10 @@ image:
   credit: Kyobo Books
   creditlink: http://www.kyobobook.co.kr/index.laf
 ---
-
+$$ 1{y_t=j},,1{y_{t−1}=1},,1_{x_t=o} $$
+$$
+y = x^2
+$$
 ### Korean Government Dataset
 
 * https://www.data.go.kr
