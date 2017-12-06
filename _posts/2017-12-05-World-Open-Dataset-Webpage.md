@@ -29,8 +29,6 @@ $$
 
 $$ 5 + 5 $$
 
-/$/$ 5 + 5 $$
-
 ### Korean Government Dataset
 
 * https://www.data.go.kr
