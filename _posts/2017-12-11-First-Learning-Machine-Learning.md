@@ -19,6 +19,7 @@ image:
   단일 연결법 : 두 클러스터에 속하는 데이터들의 거리 중에 가장 짧은 거리를 클러스터 사이의 거리로 간주
   완전 연결법 : 두 클러스터에 속하는 데이터들의 거리 중에 가장 먼 거리를 클러스터 사이의 거리로 간주
   평균 연결법 : 두 클러스터에 속하는 데이터들의 거리 평균을 클러스터 사이의 거리로 간주
+  
 * 밀도 기반 군집화 density-based clustering : 클러스터를 데이터가 높은 밀도로 모여 있는 공간으로 보는 기법
   평균이동 군집화, DBSCAN density-based spatial clustering of application with noise
   중심 포인트 core point : 반경 $$ e $$ 안에 일정 개수 이상의 데이터가 존재하는 데이터
@@ -28,5 +29,5 @@ image:
 * 유사도 계산
   민코스키 거리 : 벡터 공간 안의 두 점 사이의 거리 $$ d(X, Y) \sqrt[p]{\sum_{i=1}^m |x_i - ㅛ_i|^p} $$
               여기서 p가 1일 때는 맨해튼 거리 Manhanttan distance 2일 때는 유클리드 거리 Euclidean distance
-  마할라노비스 거리 : 점들의 분포를 고려한 거리 $$ d(x,y) = \sqrt{(x_i - y_i)^T S^-1(x_i-y_i)} $$
+  마할라노비스 거리 : 점들의 분포를 고려한 거리 $$ d(x,y) = \sqrt{(x_i - y_i)^T S^{-1}(x_i-y_i)} $$
                   공분산 $$ Cov(X, Y) = E[(X - u_x)(Y - u_y)] $$
