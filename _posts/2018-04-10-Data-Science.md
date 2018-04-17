@@ -13,7 +13,7 @@ image:
 
 ### 데이터 취득
 
-* UCI 머신러닝 리포 ![UCI Machine Learning Repository, Lichman, M. (2013)](http://archive.ics.uci.edu/ml/)
+* UCI 머신러닝 리포 [UCI Machine Learning Repository, Lichman, M. (2013)](http://archive.ics.uci.edu/ml/)
 
   이 사이트느 머신러닝 / 기계학습 학계에서 다양하 머신러닝 알고리즘의 성능을 평가하고 비교하는데 사용되는 예제 데이터베이스의 모음
   
@@ -28,10 +28,10 @@ image:
   ```
   https://goo.gl/AlvXNr 페이지 에서는 많이 쓰이느 패키지 데이터들의 CSV버전을 찾을 수 있음
   
-* 캐글![Kaggle](https://www.kaggle.com/)
+* 캐글[Kaggle](https://www.kaggle.com/)
 
   분류분석 / 회귀분석을 위한 예제 데이터들이 많음
   
-  경연자들의 데이터 분석 결과와 코드뿐 아니라 ![커널](https://www.kaggle.com/kernels)이라느 데이터 분서 코딩 플랫폼 제공
+  경연자들의 데이터 분석 결과와 코드뿐 아니라 [커널](https://www.kaggle.com/kernels)이라느 데이터 분서 코딩 플랫폼 제공
   
-* 위키디피아 머신러닝 연구를 위한 데이터 세트 리스트 ![데이터세트 리스트](https://goo.gl/SpCOIK)
+* 위키디피아 머신러닝 연구를 위한 데이터 세트 리스트 [데이터세트 리스트](https://goo.gl/SpCOIK)
