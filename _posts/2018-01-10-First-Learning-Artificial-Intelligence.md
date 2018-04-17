@@ -15,7 +15,7 @@ image:
 
 * ROC (Receiver Operating Characteristic) Curve
 
-  ![ROC Curve Image](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi2zra4tcvYAhXDJpQKHS82BsEQjRwIBw&url=https%3A%2F%2Fwww.ibm.com%2Fsupport%2Fknowledgecenter%2Fen%2FSSLVMB_sub%2Fspss%2Ftutorials%2Froc_curve_bankloan_01.html&psig=AOvVaw2zB1WF3e72nLre-afsRXs9&ust=1515605701005863)
+  ![ROC Curve Image](https://upload.wikimedia.org/wikipedia/commons/6/6b/Roccurves.png)
 
   식별 모델의 성능을 평가하는 방법으로 제2차 세계 대전 때 수신된 레이저 신호에서 적 전투기르 찾으려느 미국의 레이더 연구에서 탄생하 개념
   
